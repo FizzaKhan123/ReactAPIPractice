@@ -1,0 +1,15 @@
+.countrySelect {
+  border-radius: 16px;
+  border-color: aquamarine;
+  border-width: 1px;
+  border-style: solid;
+  padding-bottom: 0px;
+}
+
+.countrySelect > button {
+  border: none;
+}
+
+.ReactFlagsSelect-module_selectBtn__19wW7:after ::after {
+  content: "jjj";
+}
